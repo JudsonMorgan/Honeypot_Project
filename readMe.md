@@ -27,6 +27,7 @@ I attarched a notebook (honey_pot_DA) where i perform the Data Analysis.
 2. Feature Engineering
 The features with a lot of Nan values were dropped of and also some other feature which will have no effect/impact in the performance of the machine learning model.
 the feature used includes:
+
 Source IP(src_ip):  
 the IP packet field containing the IP address of the workstation from which it came.
 
