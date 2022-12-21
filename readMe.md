@@ -46,7 +46,7 @@ an established set of rules that determine how data is transmitted between diffe
 Class: 
 the class of attark, it is also our target variable.
 
-3. Modelling: building the Intrusion Detection Based Machine Learning MOdel(IDS).
+3. Modelling: building the Intrusion Detection Based Machine Learning MOdel(IDS). In other to achieve this, we carried out a comparative analysis of the five machine learning models to effectively classify the IDS based system.
 
 
 ### Modelling:
